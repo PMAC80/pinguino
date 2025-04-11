@@ -8,7 +8,7 @@ Este proyecto demuestra el principio **S** del acrónimo **SOLID**:
 - `Pinguino`: Crea y representa representa a un pingüino.
 - `Alimnentar`: se encarga de alimentar al pingüino.
 - `Actividad`: se encarga de hacerlo nadar.
-- Luego se se libera....
+- Luego se se libera...
 
 Cada clase tiene **una sola responsabilidad**, evitando mezclar funcionalidades.
 
